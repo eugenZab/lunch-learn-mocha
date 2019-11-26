@@ -1,0 +1,20 @@
+{
+  "name": "lunch-learn-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenZab/lunch-learn-mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/eugenZab/lunch-learn-mocha#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
